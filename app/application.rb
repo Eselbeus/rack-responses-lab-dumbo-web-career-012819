@@ -1,5 +1,4 @@
 require 'pry'
-# require 'time'
 
 class Application 
   
